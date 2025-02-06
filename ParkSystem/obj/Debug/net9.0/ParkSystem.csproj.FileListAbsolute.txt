@@ -1,0 +1,14 @@
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\bin\Debug\net9.0\ParkSystem.exe
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\bin\Debug\net9.0\ParkSystem.deps.json
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\bin\Debug\net9.0\ParkSystem.runtimeconfig.json
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\bin\Debug\net9.0\ParkSystem.dll
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\bin\Debug\net9.0\ParkSystem.pdb
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\obj\Debug\net9.0\ParkSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\obj\Debug\net9.0\ParkSystem.AssemblyInfoInputs.cache
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\obj\Debug\net9.0\ParkSystem.AssemblyInfo.cs
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\obj\Debug\net9.0\ParkSystem.csproj.CoreCompileInputs.cache
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\obj\Debug\net9.0\ParkSystem.dll
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\obj\Debug\net9.0\refint\ParkSystem.dll
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\obj\Debug\net9.0\ParkSystem.pdb
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\obj\Debug\net9.0\ParkSystem.genruntimeconfig.cache
+D:\aaIQBAL\test kerja\Ntt indonesia\ParkSystem\obj\Debug\net9.0\ref\ParkSystem.dll
